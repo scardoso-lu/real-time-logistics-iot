@@ -1,0 +1,5 @@
+degirum
+degirum-tools
+paho-mqtt
+kafka-python
+python-dotenv
